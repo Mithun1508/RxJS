@@ -1,4 +1,5 @@
-![Screenshot 2023-02-07 105851](https://user-images.githubusercontent.com/93249038/217156939-72ff26c8-5c3d-4744-bb69-a023d8965def.png)
+![Screenshot 2023-02-07 105851](https://user-images.githubusercontent.com/93249038/217157355-8673b262-ae44-41c3-be6d-6af4312a191d.png)
+
 
 ## Installation and Usage
 
